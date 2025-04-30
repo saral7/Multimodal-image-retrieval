@@ -36,23 +36,6 @@ save_button.addEventListener('click', function() {
    });
 });
 
-download_button.addEventListener('click', function() {
-   const jsonString = JSON.stringify(annotations, null, 2); // Pretty print with 2 spaces
-
-   // Create a Blob from the JSON string
-   const blob = new Blob([jsonString], { type: 'application/json' });
-
-   // Create a link element
-   const link = document.createElement('a');
-   link.href = URL.createObjectURL(blob);
-   link.download = 'data.json'; // Specify the file name
-
-   // Programmatically click the link to trigger the download
-   link.click();
-
-   // Clean up the URL object
-   URL.revokeObjectURL(link.href)
-});
 
 for (img of lista.images) {
    var img_elem = document.createElement("img")
