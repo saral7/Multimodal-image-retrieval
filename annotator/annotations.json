@@ -1,0 +1,304 @@
+{
+"images": [
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_191318.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_140408.jpg",
+"description": "A girl with a beige coat on a bridge.",
+"relative_caption": "* sitting on stone stairs"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_171134.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_191159.jpg",
+"description": "Man in a dark hoodie in front of a building.",
+"relative_caption": "* in front of water"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_143605.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_191142_1.jpg",
+"description": "Man with a blue T-shirt on a bridge.",
+"relative_caption": "* wearing a dark hoodie"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_143847.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_112215.jpg",
+"description": "A boy and a girl on a red bridge.",
+"relative_caption": "* looking at a map"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_135604.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240925_173442.jpg",
+"description": "Two boys in black T-shirts in front of the Geneva lake.",
+"relative_caption": "* drinking wine"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240917_192424.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240917_192212.jpg",
+"description": "A man looking through a telescope.",
+"relative_caption": "* standing in front of the fence"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_113055.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_191721.jpg",
+"description": "A couple in front of the castle.",
+"relative_caption": "* in front of the river"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_212017.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_113005.jpg",
+"description": "A group of people in a restaurant.",
+"relative_caption": "* in front of the castle"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_135548.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_143505.jpg",
+"description": "A group of people in front of ancient remains.",
+"relative_caption": "* in front of a river"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_165413.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_160230.jpg",
+"description": "People playing street chess.",
+"relative_caption": "* eating fast food"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_151138.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_135903.jpg",
+"description": "A girl by the window.",
+"relative_caption": "* sitting by the lake"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_144448.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_152538_1.jpg",
+"description": "Two men in front of a candy store.",
+"relative_caption": "* taking photos with a phone"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240923_145219.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_133202.jpg",
+"description": "A man with a board game.",
+"relative_caption": "* in a white shirt in front of a castle"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_154012.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_124138.jpg",
+"description": "A blonde man in front of the fountain.",
+"relative_caption": "* standing in front of the stone gate"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_133033.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_133017.jpg",
+"description": "A group of friends sitting by the lake.",
+"relative_caption": "* hugging"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_124038.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240923_114033.jpg",
+"description": "A group of people in front of the stone gate.",
+"relative_caption": "* in front of a church "
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_145958.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_150214.jpg",
+"description": "A girl looking at the castle.",
+"relative_caption": "* sitting next to a boy"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_144004_1.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_143915.jpg",
+"description": "A girl with a cap standing on a bridge.",
+"relative_caption": "* next to another girl"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240925_173442.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240926_231815.jpg",
+"description": "A group of people drinking wine.",
+"relative_caption": "* at the airport"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_151728.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_151753_1.jpg",
+"description": "A girl in front of a mural.",
+"relative_caption": "* but with a man instead of a girl"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_153703.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240919_153547.jpg",
+"description": "A girl in front of a big fountain.",
+"relative_caption": "* but the person is in front of a building"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_152639.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_152655.jpg",
+"description": "Two people in dark clothes walking.",
+"relative_caption": "* with another blonde boy"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_151219.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240924_151221.jpg",
+"description": "A man in a white shirt looking through the window.",
+"relative_caption": "* but facing the camera"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_143556.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240916_143326.jpg",
+"description": "A girl waving from a tower.",
+"relative_caption": "* but has a boy and a girl instead."
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_160925.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Putovanje_francuska/IMG_20240920_160924.jpg",
+"description": "A girl with sunglasses in front of the Geneva Ferris Wheel.",
+"relative_caption": "* but she is facing away from the camera"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230912_154122.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230912_154138.jpg",
+"description": "A man in Vienna in front of a carriage.",
+"relative_caption": "* with another girl"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230913_105759.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230913_124130.jpg",
+"description": "A man standing at the train station.",
+"relative_caption": "* but in front of a lake "
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230917_163954.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230917_170021.jpg",
+"description": "A man in a train looking at his phone.",
+"relative_caption": "* slouching in a chair"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230916_112929.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230920_153837.jpg",
+"description": "A postcard with a colorful picture.",
+"relative_caption": "* but multiple of them"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231007_141833.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231007_141813.jpg",
+"description": "A girl in a mediterranean street.",
+"relative_caption": "* but has a couple standing there"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240101_050336.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240106_180012.jpg",
+"description": "A closeup photo of a couple.",
+"relative_caption": "* taken as a mirror selfie"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240215_213154.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240215_213241.jpg",
+"description": "Two teddy bears.",
+"relative_caption": "* on top of each other"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231028_210757.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231028_215848.jpg",
+"description": "A man in a cowboy costume.",
+"relative_caption": "* with another two girls"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230913_112416.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230913_113421.jpg",
+"description": "Three boys in Schoenbrunn",
+"relative_caption": "* but further away from each other"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230912_173913.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230912_173925.jpg",
+"description": "Two men sitting on Karlsplatz in Vienna.",
+"relative_caption": "* with more people around them"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230920_182153.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230920_193139.jpg",
+"description": "Food on shelves",
+"relative_caption": "* placed on the floor"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231110_200527.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230921_110108.jpg",
+"description": "A white humanoid robot.",
+"relative_caption": "* with two people next to it"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230922_093155.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230920_153837.jpg",
+"description": "Six postcards on the table.",
+"relative_caption": "* but less of them and bigger"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231007_132930.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231006_191443.jpg",
+"description": "A couple standing in a mediterranean street. ",
+"relative_caption": "* in the evening"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240528_112328.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240528_112759.jpg",
+"description": "School board.",
+"relative_caption": "* but with more text on it"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231230_200231.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231230_202307.jpg",
+"description": "A couple in front of the Christmas lights.",
+"relative_caption": "* with another girl"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231219_135645.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231208_234455.jpg",
+"description": "A semi profile shot of a young man.",
+"relative_caption": "* in a green light"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240526_011504.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240525_172954.jpg",
+"description": "A mirror selfie of a couple.",
+"relative_caption": "* from a lower point of view"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231110_230218.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231110_230451.jpg",
+"description": "A group of men walking down the street.",
+"relative_caption": "* in front of an illuminated building"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231231_223210.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231231_224459.jpg",
+"description": "A group of people playing board games",
+"relative_caption": "* but close up"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240210_015807.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240214_184655.jpg",
+"description": "A couple in a nightclub.",
+"relative_caption": "* with white background"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240214_184643.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240101_001148.jpg",
+"description": "A couple in front of a white background.",
+"relative_caption": "* in dark and windy weather"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231006_124658.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231006_095132.jpg",
+"description": "A family at the Acropolis of Athens.",
+"relative_caption": "* but in front of an ancient Panathenaic Stadium"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230915_114839.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20230921_100338.jpg",
+"description": "A man surrounded by trees.",
+"relative_caption": "* standing in the shade"
+},
+{
+"reference_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20240311_194727.jpg",
+"target_img": "/mnt/c/Users/saral/Pictures/Sara_mob_2025/Camera/IMG_20231109_150009.jpg",
+"description": "Page of text from a book.",
+"relative_caption": "* handwritten in a notebook"
+}
+]
+}

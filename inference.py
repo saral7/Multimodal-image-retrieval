@@ -7,6 +7,8 @@ import json
 from annotations_classes.flickr30k_annotations import Flickr30kAnnotations
 from annotations_classes.circo_annotations import CircoAnnotations
 from annotations_classes.fashioniq_annotations import FashionIQAnnotations
+from annotations_classes.mydataset_annotations import MyDatasetAnnotations
+
 from utils import (
     recallAtK,
     retrieveComposed,
@@ -18,7 +20,9 @@ from utils import (
 def main():
     argparser = argparse.ArgumentParser()
     argparser.add_argument(
-        "--dataset", required=True, choices=["flickr30k", "fashioniq", "circo"]
+        "--dataset",
+        required=True,
+        choices=["flickr30k", "fashioniq", "circo", "mydataset"],
     )
     argparser.add_argument("--features_path", required=True)
     argparser.add_argument("--textual_embedding_left")
@@ -47,6 +51,8 @@ def main():
     if args.dataset == "fashioniq":
         split_path = args.split_file_path
         annotations = FashionIQAnnotations(annotations_path, split_path)
+    if args.dataset == "mydataset":
+        annotations = MyDatasetAnnotations(annotations_path)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -64,7 +70,7 @@ def main():
         map_location=device,
     )
 
-    K_list = [1, 5, 10, 25, 50]
+    K_list = [1, 2, 5, 10, 25, 50]
     sum_for_k = dict((k, 0) for k in K_list)
 
     print("# of annotations: ", len(annotations))
@@ -74,7 +80,7 @@ def main():
         caption = annotations[i].caption
         target_image_list = annotations[i].target_image_list
 
-        print(i, reference_image_name, caption)
+        print(i, reference_image_name, caption, target_image_list)
 
         if args.retrieval_type == "text-to-image":
             output_ids = retrieveTextToImage(
